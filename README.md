@@ -1,6 +1,10 @@
 # ai-general-experiments
 
-Random experiments using free and open-source trained AI models.
+AI model usage experiments using free and open-source trained AI models.
+
+[Author]: Blake Scherschel (blake.scherschel@gmail.com)
+
+[License](./LICENSE)
 
 # Running an experiment
 
